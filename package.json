@@ -1,0 +1,15 @@
+{
+  "name": "bitbar-ktv",
+  "version": "0.1.0",
+  "description": "",
+  "main": "ktv.12h.js",
+  "dependencies": {
+    "superagent": "^1.7.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Randy Lu <randypriv@gmail.com>",
+  "license": "MIT"
+}
